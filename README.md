@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Linktree </h1>
 
 <p align="center">
 Uma página de bio personalizada, inspirada no Linktree, feita com HTML, CSS e JavaScript. Ideal para centralizar seus links mais importantes em um só lugar.
