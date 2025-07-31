@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 🔗 Link do projeto:
-[Acesse aqui o Gerador de senha online](https://eloaguilgel.github.io/Linktree)
+[Acesse aqui o Linktree online](https://eloaguilgel.github.io/Linktree)
 
 ✨ Objetivo Este projeto foi desenvolvido com fins educacionais, para treinar habilidades em JavaScript e lógica de programação.
 
